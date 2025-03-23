@@ -1,0 +1,19 @@
+.journal{
+  display: flex;
+  height:100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #b4b8ab ;
+}
+.title{
+  font-size: 28;
+  color: #153243;
+}
+textarea{
+  width:500px;
+  height: 500px;
+  background-color: #153243;
+  color: #EEF0EB;
+  font-size: 18px;
+}
